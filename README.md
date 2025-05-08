@@ -1,5 +1,3 @@
-# mentalHealthAnalysisUsingSocialMedia
-A data visualization project for mental health analysis using social media impact and behavioural patterns
 
 # Mental Health Risk Prediction Using Social Media and Behavioral Patterns
 
